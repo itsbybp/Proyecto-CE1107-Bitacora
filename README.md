@@ -15,9 +15,9 @@ Los últimos cuatro registros corresponden al acople físico, integración, corr
 
 No se realizaron pruebas unitarias formales\. Las simulaciones conservadas corresponden principalmente a los decodificadores\.
 
----
 
-## 26 de agosto — Análisis inicial y definición de los estados del sistema
+
+## 26 de agosto
 
 Se revisaron los requerimientos generales del proyecto y se identificaron las principales partes que debían desarrollarse\.
 
@@ -42,7 +42,7 @@ Todavía no se había realizado el montaje físico completo\.
 
 ---
 
-## 5 de septiembre — Diseño inicial del serializador
+## 5 de septiembre 
 
 Se comenzó a trabajar en la etapa encargada de transmitir cada número de la contraseña de forma serial\.
 
@@ -57,7 +57,7 @@ En esta etapa se trabajó principalmente en determinar qué entradas del 74HC165
 <img width="1206" height="1114" alt="image" src="https://github.com/user-attachments/assets/0a50493a-9e10-450f-9c3c-04ba2de2272c" />
 
 
-## 10 de septiembre — Desarrollo de la recepción serial con los 74HC164
+## 10 de septiembre
 
 Se continuó con la etapa de transmisión, ahora trabajando en la recepción y almacenamiento de los datos\.
 
@@ -80,7 +80,7 @@ Esta etapa permitió dejar definida la forma en que los tres números llegarían
 
 
 
-## 13 de septiembre — Diseño de los decodificadores OPEN y CLOSE
+## 13 de septiembre
 
 Se comenzó a trabajar con mayor detalle en el circuito combinacional encargado de reconocer las contraseñas\.
 
@@ -105,7 +105,7 @@ Una vez definida la lógica, se comenzó a preparar el diseño en el simulador\.
 <img width="849" height="887" alt="image" src="https://github.com/user-attachments/assets/3086670c-ff8e-41fe-befb-9ed532f902ed" />
 
 
-## 18 de septiembre — Simulación y ajustes finales de los decodificadores
+## 18 de septiembre 
 
 Se realizaron las simulaciones correspondientes a los decodificadores de apertura y cierre\.
 
@@ -128,7 +128,7 @@ Esta fue la etapa con mayor cantidad de evidencia previa al ensamblaje, ya que s
 
 # Etapa de acople, montaje y pruebas
 
-## 23 de septiembre — Montaje físico de los decodificadores e integración con el sistema
+## 23 de septiembre
 
 Se comenzó a unir físicamente las diferentes secciones desarrolladas durante las semanas anteriores\.
 
@@ -149,7 +149,7 @@ A partir de este momento el trabajo se concentró principalmente en acoplar fís
 
 ---
 
-## 25 de septiembre — Acople de decodificadores, visualizador y desacople
+## 25 de septiembre 
 
 Se continuó con la integración del circuito ya montado\.
 
@@ -169,7 +169,7 @@ La mayor parte de la sesión se dedicó a conseguir que las salidas de los decod
 <img width="848" height="1280" alt="image" src="https://github.com/user-attachments/assets/3982463a-7aa2-4d99-8d38-473bf2954631" />
 
 
-## 27 de septiembre — Acople del L293D y primeras pruebas con el motor
+## 27 de septiembre 
 
 Se agregó la etapa de accionamiento\.
 
@@ -189,8 +189,7 @@ Durante esta etapa fue especialmente importante comprobar que los decodificadore
 
 
 
-## 28 y 29 en la madrugada del septiembre — Acople final y pruebas completas
-
+## 28 y 29 en la madrugada del septiembre
 
 BÁSICAMENTE LA PALMAMOS ACOCPLANDO 
 
